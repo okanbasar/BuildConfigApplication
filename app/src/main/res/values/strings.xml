@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="app_name_free">MyApp Free</string>
+    <string name="app_name_pro">MyApp Pro</string>
+</resources>
